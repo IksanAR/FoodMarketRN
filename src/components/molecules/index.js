@@ -1,4 +1,5 @@
-import BottomNavigator from './BottomNavigator';
 import Header from './Header';
+import BottomNavigator from './BottomNavigator';
+import FoodCard from './FoodCard';
 
-export {Header, BottomNavigator};
+export {Header, BottomNavigator, FoodCard};
